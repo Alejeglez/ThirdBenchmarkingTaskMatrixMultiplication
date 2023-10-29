@@ -1,0 +1,4 @@
+﻿Size;Matrix Multiplication Compressed (ms);Matrix Multiplication Compressed with vector (ms);Matrix Multiplication Compressed and Dense (ms)
+128;875;3436;199
+256;4724;9733;1892
+512;60415;190567;33311
